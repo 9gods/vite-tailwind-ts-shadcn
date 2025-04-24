@@ -118,7 +118,7 @@ export default function App() {
 }
 ```
 
-6. Execute:
+12. Execute:
    ```
    npm run dev
    ```
